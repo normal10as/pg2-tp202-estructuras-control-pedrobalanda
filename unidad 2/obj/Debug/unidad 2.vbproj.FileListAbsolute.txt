@@ -1,0 +1,11 @@
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\bin\Debug\unidad 2.exe.config
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\bin\Debug\unidad 2.exe
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\bin\Debug\unidad 2.pdb
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\bin\Debug\unidad 2.xml
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\obj\Debug\unidad 2.vbprojResolveAssemblyReference.cache
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\obj\Debug\unidad_2.Resources.resources
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\obj\Debug\unidad 2.vbproj.GenerateResource.cache
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\obj\Debug\unidad 2.vbproj.CoreCompileInputs.cache
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\obj\Debug\unidad 2.exe
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\obj\Debug\unidad 2.xml
+C:\Users\agos\source\repos\trabajos programacion 1 visual basic\unidad 2\unidad 2\obj\Debug\unidad 2.pdb
